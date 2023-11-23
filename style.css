@@ -69,7 +69,7 @@ body{
 
 .main-section{
     text-align: center;
-    margin-top: 14%;
+    margin-top: 10%;
     color: white;
 }
 
@@ -128,6 +128,11 @@ body{
 
 #search:focus{
     outline: none;
+}
+
+.icon{
+    margin-bottom: 0.5em;
+    width: 10%;
 }
 
 footer{
